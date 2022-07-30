@@ -1,0 +1,4 @@
+pycoingecko==2.2.0
+customtkinter==4.5.0
+darkdetect==0.7.1
+Pillow==9.2.0
